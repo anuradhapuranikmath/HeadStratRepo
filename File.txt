@@ -1,1 +1,2 @@
-Hello welcome to Git .
+Hello welcome to Git .  
+Git is a version control tool.
